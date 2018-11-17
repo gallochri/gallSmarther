@@ -1,0 +1,5 @@
+# Set the values below and rename the file to .env
+
+SUBSCRIPTION_KEY= <Subscription key which provides access to this API.>
+CLIENT_ID= <Client_id received by mail>
+CLIENT_SECRET= <client_secret received by email>
